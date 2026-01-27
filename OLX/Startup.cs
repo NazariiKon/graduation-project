@@ -175,6 +175,7 @@ namespace OLX
                     spa.UseReactDevelopmentServer(npmScript: "start");
                 }
             });
+
             //SeederDB.SeedData(app.ApplicationServices, env, this.Configuration);
         }
     }

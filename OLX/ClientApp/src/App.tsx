@@ -24,14 +24,12 @@ const Like = lazy(() => import("./components/Like/index"));
 const OrderList = lazy(() => import("./components/UserData/UserOrders"))
 
 
-
-
 function App() {
   // const { cartIsShow } = useTypedSelector((store) => store.cart);
 
   // const { downloadCartData } = useActions();
 
-  
+
   return (
     <>
       {/* {cartIsShow && <Cart />} */}
@@ -50,13 +48,13 @@ function App() {
               </Suspense>
             }
           />
-           <Route
-                      path="/addprod"
-                      element={
-                          <AddProd />
+          <Route
+            path="/addprod"
+            element={
+              <AddProd />
 
-                      }
-                  />
+            }
+          />
           <Route
             path="/login"
             element={
@@ -82,7 +80,7 @@ function App() {
               </Suspense>
             }
           />
-          <Route path="/chat" element={<Chat/>} />
+          <Route path="/chat" element={<Chat />} />
           {/* 
           
           dialog={props.appState.dialog}
