@@ -17,28 +17,33 @@
 - Google OAuth external login
 - Password reset & change
 - User profiles & admin user list
+<img src="screenshots/Account.png" alt="User Management">  
 
-### Advertisements (Core Feature)
+### Advertisements
 - Create advertisements with images
 - List all advertisements
 - VIP advertisements (featured)
 - Filter by category/subcategory
 - Filter by user
 - Edit & delete advertisements
+<img src="screenshots/Advertisement.png" alt="Advertisement">  
 
 ### Categories Management
 - Add new categories & subcategories
 - List categories & subcategories
 - Edit & delete categories
+<img src="screenshots/Categories.png" alt="Categories">  
 
 ### Shopping Cart
 - Add advertisements to cart
 - View cart items
 - Remove cart items
+<img src="screenshots/Carts.png" alt="Carts">  
 
 ### Orders
 - Create orders from cart
 - View order history
+<img src="screenshots/Orders.png" alt="Orders">  
 
 ## 🚀 Quick Start
 
