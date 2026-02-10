@@ -17,7 +17,11 @@
 - Google OAuth external login
 - Password reset & change
 - User profiles & admin user list
-<img src="screenshots/Account.png" alt="User Management">  
+<img src="screenshots/Account.png" alt="User Management">
+
+<img src="screenshots/login.png" alt="Login">  
+
+<img src="screenshots/profile.png" alt="Profile">  
 
 ### Advertisements
 - Create advertisements with images
@@ -26,24 +30,33 @@
 - Filter by category/subcategory
 - Filter by user
 - Edit & delete advertisements
-<img src="screenshots/Advertisement.png" alt="Advertisement">  
+<img src="screenshots/Advertisement.png" alt="Advertisement">
+
+<img src="screenshots/main.png" alt="Advertisement">
 
 ### Categories Management
 - Add new categories & subcategories
 - List categories & subcategories
 - Edit & delete categories
-<img src="screenshots/Categories.png" alt="Categories">  
+<img src="screenshots/Categories.png" alt="Categories">
+
+<img src="screenshots/category.png" alt="Advertisement">  
+
 
 ### Shopping Cart
 - Add advertisements to cart
 - View cart items
 - Remove cart items
-<img src="screenshots/Carts.png" alt="Carts">  
+<img src="screenshots/Carts.png" alt="Carts">
+
+<img src="screenshots/cart.png" alt="Carts">  
 
 ### Orders
 - Create orders from cart
 - View order history
 <img src="screenshots/Orders.png" alt="Orders">  
+
+<img src="screenshots/order.png" alt="Orders">  
 
 ## 🚀 Quick Start
 
